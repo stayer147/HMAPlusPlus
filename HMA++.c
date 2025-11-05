@@ -131,6 +131,7 @@ static const char *deny_list[] = {
     "com.fankes.enforcehighrefreshrate",
     "es.chiteroman.bootloaderspoofer",
     "com.hchai.rescueplan",
+    "me.bmax.apatch",
 };
 #define DENY_LIST_SIZE (sizeof(deny_list)/sizeof(deny_list[0]))
 
